@@ -12,6 +12,14 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 8- peut etre que le fichier "readme.md" ne serait pas existant, tu dois l'ajouter en faisant : git add readme.md
 9- la commande git commit -m "creation du fichier readme.md" [cette commande nous permet d'enregistrer le changement apporté]
 
+# LES COMMANDES QU'ON UTILISE TRES SOUVENT
+
+1- CREE FICHIER / MODIFICATION
+2- git add .
+3- git commit -m "message à mettre"
+4- git push
+
+
 # COMMANDES GIT
 git init (permet d'initialiser un repertoire en etant dans celui ci)
 ex: etant dans le repertoire git-commands, on tape la commande : 
