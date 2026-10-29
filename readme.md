@@ -32,8 +32,10 @@ ex: git add . (le point represente le tout)
 
 3- git commit
 permet d'enregistrer une modification en local
-ex: gigt commit -m "message"
+ex: git commit -m "message"
 le message est important c'est pourquoi ce "-m"
+ou
+git commit -am "message" [a parce qu'on veut add aussi simultanement le fichier qui a été créé]
 
 4- git status
 permet de verifier l'etat du repertoire
