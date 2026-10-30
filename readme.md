@@ -22,23 +22,23 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 
 # COMMANDES GIT
 ## 1- git init 
-permet d'initialiser un repertoire en etant dans celui ci
-ex: etant dans le repertoire git-commands, on tape la commande : 
-git init
+- permet d'initialiser un repertoire en etant dans celui ci
+- ex: etant dans le repertoire git-commands, on tape la commande : 
+- git init
 
 ## 2- git add 
-permet d'ajouter un fichier ou des modification dans le stagging
-ex: git add . (le point represente le tout)
+- permet d'ajouter un fichier ou des modification dans le stagging
+- ex: git add . (le point represente le tout)
 
 ## 3- git commit
-permet d'enregistrer une modification en local
-ex: git commit -m "message"
-le message est important c'est pourquoi ce "-m"
-ou
-git commit -am "message" [a parce qu'on veut add aussi simultanement le fichier qui a été créé]
+- permet d'enregistrer une modification en local
+- ex : git commit -m "message"
+- le message est important c'est pourquoi ce "-m"
+- ou
+- git commit -am "message" [a parce qu'on veut add aussi simultanement le fichier qui a été créé]
 
 ## 4- git status
-permet de verifier l'etat du repertoire
+- permet de verifier l'etat du repertoire
 
 ## 5- git log
-permet de voir ce qui s'est passé dans le repertoire
+- permet de voir ce qui s'est passé dans le repertoire
