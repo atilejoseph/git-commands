@@ -42,3 +42,21 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 
 ## 5- git log
 - permet de voir ce qui s'est passé dans le repertoire
+
+# POUR CREER UNE BRANCH
+
+## 1- git branch nomDeLaBranch
+-le nom de la branch doit précéder de "feature/"
+
+## 2- git branch
+- pour determiner sur quelle branch faut-il se connecter
+
+## 3- git chechout nomDeBranchSurLaquelleOnVeutSeConnecter
+ - creer fichier ou modifier
+ - git add .
+ - git commit -m "mesage"
+ - git puch
+ - git push --set-upstream origin nomDeLaNouvelleBranchCréée [pour matcher original branch à la nouvelle créée]
+
+## 4- git checkout -b feature/css
+- c'est une nouvelle branch créee nommée feature/css et sur laquelle on se connecte directement
