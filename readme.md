@@ -60,3 +60,6 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 
 ## 4- git checkout -b feature/css
 - c'est une nouvelle branch créee nommée feature/css et sur laquelle on se connecte directement
+
+## git pull
+- pour recuperer des ajout fait du github au local
