@@ -85,3 +85,7 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 
 ## git diff numeroCommit1 numeroCommit2
 -permet de voir la difference entre les deux commits
+
+# POUR CONER SON PROJET
+
+## git clone adresseEnLigneGithub
