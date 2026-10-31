@@ -43,6 +43,9 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 ## 5- git log
 - permet de voir ce qui s'est passé dans le repertoire
 
+## 5'- git log --oneline
+-pour avoir le log des commit en line
+
 # POUR CREER UNE BRANCH
 
 ## 1- git branch nomDeLaBranch
@@ -69,3 +72,7 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 
 ## git merge
 -permet de fusionner deux branche
+
+## git reset --hard numeroDeComit
+
+## git reset --force
