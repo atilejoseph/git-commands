@@ -66,3 +66,6 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 
 ## git rebase
 - permet de mettre le contenu de main en dessos de la branch en cours
+
+## git merge
+-permet de fusionner deux branche
