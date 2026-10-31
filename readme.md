@@ -80,3 +80,8 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 ## git reset --hard numeroDeCommitPrecedent
 ## git pull
 ## git push --force
+
+# VOIR LA DIFFERENCE ENTRE DEUX COMMIT
+
+## git diff numeroCommit1 numeroCommit2
+-permet de voir la difference entre les deux commits
