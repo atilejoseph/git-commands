@@ -73,6 +73,10 @@ echo "CE QUE TU VEUX Y METTRE" > readme.md
 ## git merge
 -permet de fusionner deux branche
 
-## git reset --hard numeroDeComit
+# PROCEDUR DE UPPRIMER UN COMMIT avec git reset
+-Apres avoir fait de git commit -am "messsage" et le git push
+-on fait le git log --oneline pour verifier le numero du dernier commit et on fait
 
-## git reset --force
+## git reset --hard numeroDeCommitPrecedent
+## git pull
+## git push --force
